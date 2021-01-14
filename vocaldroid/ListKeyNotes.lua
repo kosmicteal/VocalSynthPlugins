@@ -3,8 +3,8 @@
 
 --
 -- OSformula (https://github.com/OSformula/)
--- MAIKA and Voctro Labs' fan since 2013; waiting for new Spanish
--- commerical voicebanks since 2013 too
+-- MAIKA fan since 2013, Voctro Labs' fan since 2011 and
+-- waiting for new Spanish commercial voicebanks since 2013 too
 --
 
 ------------- MANIFEST
