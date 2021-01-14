@@ -170,7 +170,7 @@ function main(processParam, envParam)
 	resultNotePlace = 12*(valueNote + 2) + keyType * 2 + signType
 	
 	-- Debug stuff
-	VSMessageBox("Key: " .. keyType .. ". Sign: " .. signType .. ". Value: " .. valueNote .. ". \n Duration:" .. lengType .. ".\n Total Place (C#3 is 60):" .. resultNotePlace .. "\n Number of notes:" .. numberNotes, 0)
+	VSMessageBox("Key: " .. keyType .. ". Sign: " .. signType .. ". Value: " .. valueNote .. ". \n Duration:" .. lengType .. ".\n Total Place (C3 is 60):" .. resultNotePlace .. "\n Number of notes:" .. numberNotes, 0)
 
 	----------------------------------------------------- Generation
 	
