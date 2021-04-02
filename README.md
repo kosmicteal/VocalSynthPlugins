@@ -9,8 +9,8 @@ Plugins for various Signing Voice Synthesizers that allow scripting ([you can al
   * **How it works?**: Set the Position wherever you want the notes and run the Plug-in. Everything else is self-explanatory.
 * **Crash-B-Gone for Tonio**: Replaces all @ for V
   * **How it works?**: Choose a part in a VSQx and run the Plug-in.
-* **VocaAutoPitch**: Auto-tuning pitch based on DNN AI Edge-cutting technology, really.
-  * **How it works?**: Mute the track you want to tune and rename it as "TUNE", create a new track below with a new part, put the marker at 1:1:000 (the start of the part) and run the plugin.
+* **VocaAutoPitch (April Fools 2021)**: ~~Auto-tuning pitch based on DNN AI Edge-cutting technology, really.~~ Adds the first four notes of Toby Fox's Megalovania from UNDERTALE.
+  * **How it works?**: ~~Mute the track you want to tune and rename it as "TUNE", create a new track below with a new part, put the marker at 1:1:000 (the start of the part) and run the plugin.~~ Put the market where you want the notes, the only parameter that is taken in count while selecting is "Language"
 
 # Note
 As we don't know what's going to happen in the future with this synth or its compatibilities with future Windows OS, always make a backup of the file before running any plugin.
