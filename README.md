@@ -1,5 +1,5 @@
 # VocalSynthPlugins
-![](https://img.shields.io/badge/number%20of%20plugins-2-lightgrey) ![](https://img.shields.io/badge/intended%20for-VOCALOID3-FFFFFF)![](https://img.shields.io/badge/-VOCALOID4-000000)
+![](https://img.shields.io/badge/number%20of%20plugins-3-lightgrey) ![](https://img.shields.io/badge/intended%20for-VOCALOID3-FFFFFF)![](https://img.shields.io/badge/-VOCALOID4-000000)
 
 Plugins for various Signing Voice Synthesizers that allow scripting ([you can also donate in case these scripts helped you a bit](https://ko-fi.com/osformula) winkwink)
 
