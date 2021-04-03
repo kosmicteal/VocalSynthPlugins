@@ -10,7 +10,7 @@
 function manifest()
     myManifest = {
         name          = "VocaAutoPitch",
-        comment       = "Auto-tuning plug-in for VOCALOID4",
+        comment       = "April Fools 2021 (False auto-tuning plugin)",
         author        = "OSformula",	
         pluginID      = "{1A187643-F250-9B5A-1F5C-F635FFFCAD2B}",
         pluginVersion = "0.4.0.1",
