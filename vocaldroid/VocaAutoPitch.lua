@@ -20,6 +20,13 @@ function manifest()
     return myManifest
 end
 
+	--dlgStatus, signTypeStr  = VSDlgGetStringValue("If you're reading this, happy april fools")
+	--dlgStatus, signTypeStr  = VSDlgGetStringValue("As much as an autotuning plugin would be nice")
+	--dlgStatus, signTypeStr  = VSDlgGetStringValue("I don't know how to tune in the first place")
+	--dlgStatus, signTypeStr  = VSDlgGetStringValue("And I need to do commissions as those are my main hobby")
+	--dlgStatus, signTypeStr  = VSDlgGetStringValue("Plus those commissions are my only way of income rn so yeah")
+	--dlgStatus, signTypeStr  = VSDlgGetStringValue("Please don't take this april fools joke seriously gdamnit")
+
 ------------- CONVERSION SETS FROM STRINGS TO DATA
 
 langTypeListMap = {
@@ -138,12 +145,7 @@ function main(processParam, envParam)
 
 	-- tell software to recollect data
 	dlgStatus, langTypeStr  = VSDlgGetStringValue("language")
-	--dlgStatus, signTypeStr  = VSDlgGetStringValue("If you're reading this, happy april fools")
-	--dlgStatus, signTypeStr  = VSDlgGetStringValue("As much as an autotuning plugin would be nice")
-	--dlgStatus, signTypeStr  = VSDlgGetStringValue("I don't know how to tune in the first place")
-	--dlgStatus, signTypeStr  = VSDlgGetStringValue("And I need to do commissions as those are my main hobby")
-	--dlgStatus, signTypeStr  = VSDlgGetStringValue("Plus those commissions are my only way of income rn so yeah")
-	--dlgStatus, signTypeStr  = VSDlgGetStringValue("Please don't take this april fools joke seriously gdamnit")
+
 
 	-- recollect data (Strings)
 	local index = 1
